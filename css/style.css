@@ -1,0 +1,81 @@
+.header {
+  position: sticky;
+  position: -webkit-sticky;
+
+  width: 100vw;
+  top: 0;
+  border-top: 5px transparent white;
+  border-right: 5px transparent white;
+  border-left: 5px transparent white;
+  padding-top: 20px;
+  background-color: blueviolet;
+}
+
+#header_logo {
+  margin-left: 1vw;
+  margin-right: 1vw;
+  width: 8vw;
+  min-width: 50px;
+  max-width: 200px;
+}
+
+.header_title {
+  text-decoration: none;
+  padding-left: 1vw;
+  color: whitesmoke;
+  font-size: 4vw;
+  padding-bottom: 2vw;
+}
+
+.topnav {
+  position: relative;
+  color: whitesmoke;
+}
+
+.topnav a,
+.topnav a:hover {
+  text-decoration: none;
+  display: inline-block;
+  width: 33%;
+  padding: 1em;
+  text-align: center;
+  color: whitesmoke;
+}
+
+.topnav a.active {
+  border-bottom: 7px solid #4e0d78;
+}
+
+.div1 h2,
+p {
+  color: #4e0d78;
+}
+
+.footer {
+  background-color: blueviolet;
+  padding-top: 40px;
+  padding-bottom: 10px;
+  text-align: center;
+}
+
+.footer p {
+  color: whitesmoke;
+}
+
+.socialIcons a {
+  font-size: 14px;
+  margin: 0 10px 0 0;
+  color: whitesmoke;
+  text-decoration: none;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#social-dc {
+  font-size: 38px;
+}
+
+.socialIcons a:hover {
+  color: whitesmoke;
+  text-decoration: none;
+}
