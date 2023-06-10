@@ -3,7 +3,7 @@
 UST CS Club Website
 ===================
 
-The University of St. Thomas Computer Science Club (UST CS Club) website is a project designed to provide information about the club, its events, and how to join. The website is created using HTML, CSS, and JavaScript, along with the Bootstrap framework for responsive design. It features a clean, modern design and is easy to navigate for users to find the information they need.
+The University of St. Thomas Computer Science Club (UST CS Club) website is a project designed to provide information about the club, its events, and how to join. The website is created using HTML and CSS, along with the Bootstrap framework for responsive design. It features a clean, modern design and is easy to navigate for users to find the information they need.
 
 Table of Contents
 -----------------
